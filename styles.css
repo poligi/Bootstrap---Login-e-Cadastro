@@ -1,0 +1,13 @@
+.login {
+    height: calc(100% - 42.35px);
+  }
+  
+  .btn-primary,
+  .bg-primary {
+    background-color: #5667cb !important;
+  }
+  
+  .btn-link {
+    color: #5667cb !important;
+    text-decoration: none;
+  }
